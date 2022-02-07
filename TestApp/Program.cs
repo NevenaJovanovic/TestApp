@@ -6,7 +6,7 @@ namespace TestApp
     {
         static void Main()
         {
-            Console.WriteLine("Hello, World, from Nevena!");
+            Console.WriteLine("Hello, World, from Nevena! Have a very nice day!");
         }
     }
 }
